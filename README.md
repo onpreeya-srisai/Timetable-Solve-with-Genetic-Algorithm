@@ -1,6 +1,6 @@
 # Timetable-Solve-with-Genetic-Algorithm
 The use of Genetic Algorithm in various work schedules.
-This program tackles the problem of scheduling tasks in the form of working at day and at night or 2 shifts.
+This program takes the problem of scheduling tasks in the form of working at day and at night or 2 shifts.
 If you are going to apply it to the problem You must know and understand the conditions of work and factors together.
 
 What are the conditions? 
